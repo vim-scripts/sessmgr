@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=286
+
+Manages sessions and viminfo so that when you start vim in a particular directory (e.g. a "project"), then vim starts up with all the files and windows set the way they were last, including history and other settings.  Allows multiple named sessions in each project, including the ability to quickly and easily switch between them.
